@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', function () {
+document.addEventListener('DOMContentLoaded', () => {
 	class Calc {
 		static #value = '';
 		static #NAME = 'calc';
